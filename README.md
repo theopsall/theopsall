@@ -18,7 +18,12 @@ I am **Theodoros Psallidas**, hailing from the historic land of Greece, currentl
 
 </br></br>
 
-[![Theodoros's GitHub stats](https://github-readme-stats.vercel.app/api?username=theopsall&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theopsall&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=theopsall&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theopsall&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&border_radius=20&theme=tokyonight&hide_border=true&order=2" height="230" alt="languages graph"  />
+</div>
 
 ### Technical Proficiency
 
