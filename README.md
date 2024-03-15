@@ -4,9 +4,16 @@
 
 I am **Theodoros Psallidas**, hailing from the historic land of Greece, currently living the dream. A passionate Ph.D. candidate at the University of Thessaly and Machine Learning Engineer, I specialize in audiovisual data analysis and machine learning, with a focus on multimodal video summarization.
 
-<p align="center">
+
+<div align="center">
     <img src="https://theopsall.github.io/tpsallidas/assets/signature_white-f352c47c.svg" alt="Theodoros Psallidas' Signature" width="200"/>
-</p>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Software+Developer;Machine+Learning+Engineer)](https://git.io/typing-svg)
+
+</div>
 
 - 🔭 Currently working as a Full Stack Software Engineer at [Behavioral Signals](https://behavioralsignals.com/).
 - 🌱 Deep expertise in Machine Learning and Full Stack Development.
@@ -32,7 +39,9 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 <br/>
 
 - 💻 &nbsp;:
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 - 🧠 &nbsp;:
   ![scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikitlearn)
@@ -42,12 +51,13 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 
 - 🌐 &nbsp;:
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![FastAPI](https://img.shields.io/badge/-FastAPI.js-333333?style=flat&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django.js-333333?style=flat&logo=django)
 
-- 🛢 &nbsp;: ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- 🛢 &nbsp;: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
