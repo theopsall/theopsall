@@ -66,14 +66,14 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 
 ---
 
-<h3 align="center">
+<!-- <h3 align="center">
     Now Playing — Spotify 🎧
 </h3>
 <p align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=31l2gu2jkevdhgpsfugduxpmuib4&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l2gu2jkevdhgpsfugduxpmuib4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
     </a>
-</p>
+</p> -->
 
 ---
 
