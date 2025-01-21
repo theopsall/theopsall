@@ -53,8 +53,8 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
   ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI.js-333333?style=flat&logo=fastapi)
-  ![Django](https://img.shields.io/badge/-Django.js-333333?style=flat&logo=django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
 - 🛢 &nbsp;: 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
