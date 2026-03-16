@@ -11,13 +11,13 @@ I am **Theodoros Psallidas**, hailing from the historic land of Greece, currentl
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full+Stack+Software+Developer;Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Senior+Software+Engineer;Machine+Learning+Engineer)](https://git.io/typing-svg)
 
 </div>
 
-- 🔭 Currently working as a Full Stack Software Engineer at [Behavioral Signals](https://behavioralsignals.com/).
-- 🌱 Deep expertise in Machine Learning and Full Stack Development.
-- 👨‍💻 Skilled in ReactJS, FastAPI, Django, Python, JavaScript/TypeScript, and machine learning frameworks like scikit-learn, PyTorch, Keras and TensorFlow.
+- 🔭 Currently working as a Senior Software Engineer at [ProxyFoods](https://proxyfoods.ai/).
+- 🌱 Deep expertise in Machine Learning and Software Development.
+- 👨‍💻 Skilled in ReactJS, FastAPI, Django, Python, JavaScript/TypeScript, and machine learning frameworks like scikit-learn and PyTorch,.
 - 🏆 Winner of "Code the IoT Hackathon of MaTHiSiS Project" at the University of West Attica.
 - 📚 Published author and researcher in fields like multimodal video summarization and sound event detection.
 - 🍺 When I'm not coding, I enjoy a cold craft beer, hopping from one code to another brew! Sometimes, they come together.
@@ -39,8 +39,8 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 <br/>
 
 - 💻 &nbsp;:
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript) 
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 - 🧠 &nbsp;:
@@ -56,10 +56,10 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
   ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 
-- 🛢 &nbsp;: 
+- 🛢 &nbsp;:
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 - ⚙️ &nbsp;:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
