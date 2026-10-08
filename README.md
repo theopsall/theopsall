@@ -6,7 +6,7 @@ I am **Theodoros Psallidas**, hailing from the historic land of Greece, currentl
 
 
 <div align="center">
-    <img src="https://theopsall.github.io/tpsallidas/assets/signature_white-f352c47c.svg" alt="Theodoros Psallidas' Signature" width="200"/>
+    <img src="https://theopsall.github.io/tpsallidas/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
 </div>
 
 <div align="center">
@@ -90,7 +90,7 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 ---
 
 <p align="center">
-    <img src="https://theopsall.github.io/tpsallidas/assets/signature_white-f352c47c.svg" alt="Theodoros Psallidas' Signature" width="200"/>
+    <img src="https://theopsall.github.io/tpsallidas/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
 </p>
 <p align="center">
 Thank you for visiting my profile!
