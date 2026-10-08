@@ -34,7 +34,7 @@ The full experience, publications and CV live on **[theopsall.github.io](https:/
 - [Multimodal summarization of user-generated videos](https://doi.org/10.3390/app11115260), *Applied Sciences*, 2021
 - [Multimodal video summarization based on fuzzy similarity features](https://doi.org/10.1109/IVMSP54334.2022.9816266), *IEEE IVMSP*, 2022
 
-All seven are on [Google Scholar](https://scholar.google.com/citations?user=478yYkIAAAAJ) and listed with DOIs on the [website](https://theopsall.github.io/#publications-h).
+All eight are on [Google Scholar](https://scholar.google.com/citations?user=478yYkIAAAAJ) and listed with DOIs on the [website](https://theopsall.github.io/#publications-h).
 
 ## Open source
 
