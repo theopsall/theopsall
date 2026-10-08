@@ -6,7 +6,7 @@ I am **Theodoros Psallidas**, hailing from the historic land of Greece, currentl
 
 
 <div align="center">
-    <img src="https://theopsall.github.io/tpsallidas/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
+    <img src="https://theopsall.github.io/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 </br>
 <p align="center">
     <a href="mailto:theopsall@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://theopsall.github.io/tpsallidas/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+    <a href="https://theopsall.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
     <a href="https://github.com/theopsall" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://scholar.google.com/citations?user=478yYkIAAAAJ" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/googlescholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/tpsallidas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -90,7 +90,7 @@ As a Machine Learning Engineer and Full Stack Developer, I have honed my skills 
 ---
 
 <p align="center">
-    <img src="https://theopsall.github.io/tpsallidas/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
+    <img src="https://theopsall.github.io/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
 </p>
 <p align="center">
 Thank you for visiting my profile!
