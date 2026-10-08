@@ -7,14 +7,7 @@
 
 <h1 align="center">Theodoros Psallidas</h1>
 
-<p align="center">
-  <a href="https://theopsall.github.io/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&pause=1400&color=EDEDED&center=true&vCenter=true&width=480&height=32&lines=Senior+Software+Engineer;Building+agentic+platforms+with+LangGraph;PhD+candidate%2C+multimodal+video+summarization">
-      <img alt="Senior Software Engineer. Building agentic platforms with LangGraph. PhD candidate, multimodal video summarization." src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&pause=1400&color=111111&center=true&vCenter=true&width=480&height=32&lines=Senior+Software+Engineer;Building+agentic+platforms+with+LangGraph;PhD+candidate%2C+multimodal+video+summarization">
-    </picture>
-  </a>
-</p>
+<p align="center">Senior Software Engineer · Building agentic platforms with LangGraph · PhD candidate, multimodal video summarization</p>
 
 <p align="center">
   <a href="https://theopsall.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ededed?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
