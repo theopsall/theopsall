@@ -1,102 +1,74 @@
-## Hello there! 👋,
-
-### Welcome to my digital realm,
-
-I am **Theodoros Psallidas**, hailing from the historic land of Greece, currently living the dream. A passionate Ph.D. candidate at the University of Thessaly and Machine Learning Engineer, I specialize in audiovisual data analysis and machine learning, with a focus on multimodal video summarization.
-
-
-<div align="center">
-    <img src="https://theopsall.github.io/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Senior+Software+Engineer;Machine+Learning+Engineer)](https://git.io/typing-svg)
-
-</div>
-
-- 🔭 Currently working as a Senior Software Engineer at [ProxyFoods](https://proxyfoods.ai/).
-- 🌱 Deep expertise in Machine Learning and Software Development.
-- 👨‍💻 Skilled in ReactJS, FastAPI, Django, Python, JavaScript/TypeScript, and machine learning frameworks like scikit-learn and PyTorch,.
-- 🏆 Winner of "Code the IoT Hackathon of MaTHiSiS Project" at the University of West Attica.
-- 📚 Published author and researcher in fields like multimodal video summarization and sound event detection.
-- 🍺 When I'm not coding, I enjoy a cold craft beer, hopping from one code to another brew! Sometimes, they come together.
-- 🐕 Pair programming with Barney, my dog who enjoys keeping me company while I code.
-
-</br></br>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=theopsall&theme=tokyonight&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=theopsall&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=5&border_radius=20&theme=tokyonight&hide_border=true&order=2" height="230" alt="languages graph"  />
-</div>
-
-### Technical Proficiency
-
-As a Machine Learning Engineer and Full Stack Developer, I have honed my skills across a broad range of technologies and tools. Here are some of the key areas of my expertise:
-
-<br/>
-
-- 💻 &nbsp;:
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-- 🧠 &nbsp;:
-  ![scikitlearn](https://img.shields.io/badge/-scikitlearn-333333?style=flat&logo=scikitlearn)
-  ![pytorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-  ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras&logoColor=red)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-
-- 🌐 &nbsp;:
-  ![ReactJS](https://img.shields.io/badge/-ReactJS-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=red)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-
-- 🛢 &nbsp;:
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
-- ⚙️ &nbsp;:
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
----
-
-<!-- <h3 align="center">
-    Now Playing — Spotify 🎧
-</h3>
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31l2gu2jkevdhgpsfugduxpmuib4&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l2gu2jkevdhgpsfugduxpmuib4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true"/>
-    </a>
-</p> -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://theopsall.github.io/signature.svg">
+    <img src="https://theopsall.github.io/signature-dark.svg" alt="Theodoros Psallidas' signature" width="220">
+  </picture>
+</p>
 
----
+<h1 align="center">Theodoros Psallidas</h1>
 
-</br>
 <p align="center">
-    <a href="mailto:theopsall@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://theopsall.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-    <a href="https://github.com/theopsall" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://scholar.google.com/citations?user=478yYkIAAAAJ" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/googlescholar-100000?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/tpsallidas/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://twitter.com/TheoPsallidas" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://theopsall.github.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&pause=1400&color=EDEDED&center=true&vCenter=true&width=480&height=32&lines=Senior+Software+Engineer;Building+agentic+platforms+with+LangGraph;PhD+candidate%2C+multimodal+video+summarization">
+      <img alt="Senior Software Engineer. Building agentic platforms with LangGraph. PhD candidate, multimodal video summarization." src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&pause=1400&color=111111&center=true&vCenter=true&width=480&height=32&lines=Senior+Software+Engineer;Building+agentic+platforms+with+LangGraph;PhD+candidate%2C+multimodal+video+summarization">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://theopsall.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-ededed?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+  <a href="https://theopsall.github.io/Theodoros_Psallidas_CV.pdf"><img alt="Download CV" src="https://img.shields.io/badge/Download_CV-111111?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=478yYkIAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-111111?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tpsallidas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:theopsall@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
+I am a Senior Software Engineer at [ProxyFoods](https://proxyfoods.ai/) building agentic recipe generation with LangGraph, RAG and OpenFGA. I am also a PhD candidate in Computer Science at the University of Thessaly, where my research covers multimodal video summarization, computer vision and audio. I am based in Athens, Greece.
+
+- 🔭 Now: agentic platforms (LangGraph, RAG, human-in-the-loop) at ProxyFoods.
+- 🧠 Before: ML and full-stack work at MyTripMyWay, Behavioral Signals, NCSR Demokritos and Optechain.
+- 🏆 Winner of the "Code the IoT Hackathon" of the MaTHiSiS project, University of West Attica.
+- 🍺 Off the clock I enjoy craft beer, and I pair-program with Barney, my dog.
+
+The full experience, publications and CV live on **[theopsall.github.io](https://theopsall.github.io/)**.
+
+## Selected publications
+
+- [Video summarization based on feature fusion and data augmentation](https://doi.org/10.3390/computers12090186), *Computers*, 2023
+- [Multimodal summarization of user-generated videos](https://doi.org/10.3390/app11115260), *Applied Sciences*, 2021
+- [Multimodal video summarization based on fuzzy similarity features](https://doi.org/10.1109/IVMSP54334.2022.9816266), *IEEE IVMSP*, 2022
+
+All seven are on [Google Scholar](https://scholar.google.com/citations?user=478yYkIAAAAJ) and listed with DOIs on the [website](https://theopsall.github.io/#publications-h).
+
+## Open source
+
+- [Video-Summarization](https://github.com/theopsall/Video-Summarization): code and dataset for my MSc thesis on multimodal summarization of user-generated videos
+- [multiSmote](https://github.com/theopsall/multiSmote): a multi-label approach to the SMOTE algorithm
+- [deep_video_extraction](https://github.com/theopsall/deep_video_extraction): deep audio and visual feature extraction from video
+- [video_annotator](https://github.com/theopsall/video_annotator): web app for annotating video shots
+
+## Stack
+
+![Python](https://img.shields.io/badge/-Python-111111?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)<br/>
+![LangGraph](https://img.shields.io/badge/-LangGraph-111111?style=flat-square&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-111111?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-111111?style=flat-square&logo=django&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)<br/>
+![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-111111?style=flat-square&logo=angular&logoColor=white)<br/>
+![PyTorch](https://img.shields.io/badge/-PyTorch-111111?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-111111?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-111111?style=flat-square&logo=keras&logoColor=white)<br/>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-111111?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)<br/>
+![Docker](https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/-Azure-111111?style=flat-square) ![Git](https://img.shields.io/badge/-Git-111111?style=flat-square&logo=git&logoColor=white)
+
 <p align="center">
-    <img src="https://theopsall.github.io/signature.svg" alt="Theodoros Psallidas' Signature" width="200"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=theopsall&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&background=000000&ring=52A8FF&fire=52A8FF&currStreakNum=EDEDED&currStreakLabel=EDEDED&sideNums=EDEDED&sideLabels=A1A1A1&dates=A1A1A1" />
 </p>
 <p align="center">
-Thank you for visiting my profile!
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=theopsall&layout=compact&card_width=350&langs_count=5&border_radius=8&hide_border=true&bg_color=000000&title_color=EDEDED&text_color=A1A1A1&icon_color=52A8FF" />
 </p>
-<!-- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![Material-UI](https://img.shields.io/badge/-Material_UI-333333?style=flat&logo=mui)
-![Antd](https://img.shields.io/badge/-Antd-333333?style=flat&logo=antdesign) -->
+
+<p align="center">
+  <a href="https://github.com/theopsall"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://twitter.com/TheoPsallidas"><img alt="X" src="https://img.shields.io/badge/X-111111?style=flat-square&logo=x&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Thank you for visiting my profile.</sub></p>
